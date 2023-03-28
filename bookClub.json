@@ -1,0 +1,97 @@
+{					
+	"label":"Adult Book Club 2023",	
+	"description":"This year's fiction and non-fiction reads",	
+	"list":[				
+	{				
+	"label":"Remarkably Bright Creatures",
+	"isbns":	[			
+		"9780063204157",
+		"9780063242401",
+		"9780063204171",
+		"9798200969272",
+		"9780063204188"	
+	]				
+	},				
+	{				
+	"label":"Deacon King Kong",
+	"isbns":	[			
+		"9780735216723",
+		"9780735216747",
+		"9780593166987"	
+	]				
+	},				
+	{				
+	"label":"Miss Eliza's English Kitchen",
+	"isbns":	[			
+		"9780063066465",
+		"9781432896065",
+		"9780063066489"	
+	]				
+	},				
+	{				
+	"label":"The Measure",
+	"isbns":	[			
+		"9780063204201",
+		"9780063204225",
+		"9780063204249"	
+	]				
+	},				
+	{				
+	"label":"Braiding Sweetgrass",
+	"isbns":	[			
+		"9781571311771",
+		"9781515975908"	
+	]				
+	},				
+	{				
+	"label":"Beautiful Ruins",
+	"isbns":	[			
+		"9780061928123",
+		"9780062098085",
+		"9780062201621"	
+	]				
+	},				
+	{				
+	"label":"This Tender Land",
+	"isbns":	[			
+		"9781476749297",
+		"9781476749310"
+	]		
+	},		
+	{				
+	"label":"Painting the Light",
+	"isbns":	[			
+		"9780062916242"	
+	]				
+	},				
+	{				
+	"label":"Bicycling with Butterflies",
+	"isbns":	[			
+		"9781643260457"	
+	]				
+	},				
+	{				
+	"label":"Our Missing Hearts",
+	"isbns":	[			
+		"9780593492543",
+		"9780593632673",
+		"9780593492550",
+		"9780593629628"	
+	]				
+	},				
+	{				
+	"label":"The Keeper of Lost Things",
+	"isbns":	[			
+		"9780062473554",
+		"9781473635494",
+		"9780062660541"	
+	]				
+	},				
+	{				
+	"label":"Finding Freedom",
+	"isbns":	[			
+		"9781250312341"	
+]					
+}					
+]					
+}		
